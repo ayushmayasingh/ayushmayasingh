@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I study in IIT JODHPUR<br>🌱 I’m currently learning Data Science and Python<br>💬 Ask me anything regarding AI/News/DATA SCIENCE/Politics/Stocks/Mrketing<br>⚡ Fun fact that i can solve Rubik's cube in 40 second
+🔭 I study in IIT JODHPUR<br>🌱 I’m currently learning Data Science and Python<br>💬 Ask me anything regarding AI/News/DATA SCIENCE/Politics/Stocks/Marketing<br>⚡ Fun fact that i can solve Rubik's cube in 40 second
 
 
 ## 🌐 Socials:
